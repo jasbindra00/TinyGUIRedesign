@@ -1,0 +1,31 @@
+﻿  GUIButton.cpp
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIData.h(15,4): warning C4091: 'static ': ignored on left of 'GUIData::GUIStateData::GUIState' when no variable is declared
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIData.h(26,4): warning C4091: 'static ': ignored on left of 'GUIData::GUITypeData::GUIType' when no variable is declared
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIFormattingData.h(8,10): fatal error C1083: Cannot open include file: 'Manager_Font.h': No such file or directory
+  GUICheckbox.cpp
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIData.h(15,4): warning C4091: 'static ': ignored on left of 'GUIData::GUIStateData::GUIState' when no variable is declared
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIData.h(26,4): warning C4091: 'static ': ignored on left of 'GUIData::GUITypeData::GUIType' when no variable is declared
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIFormattingData.h(8,10): fatal error C1083: Cannot open include file: 'Manager_Font.h': No such file or directory
+  GUIElement.cpp
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIData.h(15,4): warning C4091: 'static ': ignored on left of 'GUIData::GUIStateData::GUIState' when no variable is declared
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIData.h(26,4): warning C4091: 'static ': ignored on left of 'GUIData::GUITypeData::GUIType' when no variable is declared
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIFormattingData.h(8,10): fatal error C1083: Cannot open include file: 'Manager_Font.h': No such file or directory
+  GUIInterface.cpp
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIData.h(15,4): warning C4091: 'static ': ignored on left of 'GUIData::GUIStateData::GUIState' when no variable is declared
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIData.h(26,4): warning C4091: 'static ': ignored on left of 'GUIData::GUITypeData::GUIType' when no variable is declared
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIFormattingData.h(8,10): fatal error C1083: Cannot open include file: 'Manager_Font.h': No such file or directory
+  GUILabel.cpp
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIData.h(15,4): warning C4091: 'static ': ignored on left of 'GUIData::GUIStateData::GUIState' when no variable is declared
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIData.h(26,4): warning C4091: 'static ': ignored on left of 'GUIData::GUITypeData::GUIType' when no variable is declared
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIFormattingData.h(8,10): fatal error C1083: Cannot open include file: 'Manager_Font.h': No such file or directory
+  GUIScrollbar.cpp
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIData.h(15,4): warning C4091: 'static ': ignored on left of 'GUIData::GUIStateData::GUIState' when no variable is declared
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIData.h(26,4): warning C4091: 'static ': ignored on left of 'GUIData::GUITypeData::GUIType' when no variable is declared
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIFormattingData.h(8,10): fatal error C1083: Cannot open include file: 'Manager_Font.h': No such file or directory
+  GUITextfield.cpp
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIData.h(15,4): warning C4091: 'static ': ignored on left of 'GUIData::GUIStateData::GUIState' when no variable is declared
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIData.h(26,4): warning C4091: 'static ': ignored on left of 'GUIData::GUITypeData::GUIType' when no variable is declared
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\GUIFormattingData.h(8,10): fatal error C1083: Cannot open include file: 'Manager_Font.h': No such file or directory
+  Manager_GUI.cpp
+D:\FILES\Documents\Programming\Projects\C++\GitHub\SimpleGUI\SimpleGUI\Manager_GUI.h(8,10): fatal error C1083: Cannot open include file: 'EventQueue.h': No such file or directory
+  Generating Code...
